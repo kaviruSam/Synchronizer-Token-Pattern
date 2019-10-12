@@ -5,4 +5,4 @@ Make sure XAMPP
 Clone this repository into the htdocs folder of the XAMPP server.
 
 Login credentials
-Username :kaviru Password: Kaviru9
+Username :kaviru Password: Kaviru98
